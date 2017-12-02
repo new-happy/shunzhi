@@ -1,0 +1,21 @@
+.title-header{
+    text-align: center;
+    color: white;
+    line-height: 15px;
+    padding-top: 45px;
+    padding-bottom: 20px;
+}
+.header h1{
+  font-size: 36px;
+  color: #FFFFFF;
+  line-height: 42px;
+  text-align: center;
+  margin-top: 54px;
+}
+.header p{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-bottom: 79px;
+}

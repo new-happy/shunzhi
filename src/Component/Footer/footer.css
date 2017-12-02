@@ -1,0 +1,29 @@
+.footer{
+  width: 280px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.footer button{
+    display: block;
+    border: 0;
+    line-height: 56px;
+    outline: 0;
+    width: 280px;
+    margin: 0 auto;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.20);
+    border-radius: 2px;
+    font-size: 14px;
+    color: #F77062;
+    margin-top: 79px;
+}
+.footer a{
+  color: white;
+  line-height: 20px;
+  margin-bottom: 35px;
+  margin-top: 15px;
+  text-decoration: none;
+}
